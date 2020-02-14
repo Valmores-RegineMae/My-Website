@@ -1,0 +1,34 @@
+body{
+    background-image: url("moon.jpg");
+}
+
+ul {
+    font-family: cursive;
+    font-size: 30px;
+    list-style-type: none;
+    margin: 30px;
+    padding: 50px;
+    overflow: hidden;
+}
+li a:hover {
+    background-color: plum;
+}
+li a {
+    color: whitesmoke;
+}
+#nav {
+    text-align: center;
+}
+#nav li {
+    display: inline;
+}
+#nav a {
+    text-decoration: burlywood;
+    padding: 20px 30px;
+}
+h1 {
+    text-align: center;
+    color:whitesmoke;
+    font-family: cursive;
+    font-size: 70px;
+}
